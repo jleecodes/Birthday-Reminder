@@ -86,6 +86,14 @@ h4 {
 	margin-bottom: 0.75rem;
 }
 
+h3 {
+	display: block;
+	margin-block-start: 1em;
+	margin-block-end: 1em;
+	margin-inline-start: 0px;
+	margine-inline-end: 0px;
+}
+
 .container {
 	width: 90vw;
 	margin: 5rem 0;
